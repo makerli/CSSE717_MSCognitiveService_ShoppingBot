@@ -1,0 +1,17 @@
+c:\users\asus\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\bin\Debug\SaladCo_WPF.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\bin\Debug\SaladCo_WPF.exe
+c:\users\asus\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\bin\Debug\SaladCo_WPF.pdb
+c:\users\asus\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\obj\Debug\SaladCo_WPF.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\obj\Debug\MainWindow.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\obj\Debug\App.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\obj\Debug\SaladCo_WPF_MarkupCompile.cache
+c:\users\asus\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\obj\Debug\SaladCo_WPF_MarkupCompile.lref
+c:\users\asus\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\obj\Debug\MainWindow.baml
+c:\users\asus\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\obj\Debug\SaladCo_WPF.g.resources
+c:\users\asus\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\obj\Debug\SaladCo_WPF.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\obj\Debug\SaladCo_WPF.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\obj\Debug\SaladCo_WPF.exe
+c:\users\asus\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\obj\Debug\SaladCo_WPF.pdb
+C:\Users\ASUS\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\bin\Debug\SpeechClient.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\bin\Debug\Newtonsoft.Json.xml

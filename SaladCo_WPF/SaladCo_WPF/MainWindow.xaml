@@ -1,0 +1,56 @@
+﻿<Window x:Class="SaladCo_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SaladCo_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow"  WindowState="Maximized" d:DesignWidth="1561.926" d:DesignHeight="881.417">
+    <Grid HorizontalAlignment="Left" Height="803" Margin="-3,42,0,0" VerticalAlignment="Top" Width="1555">
+        <Image x:Name="image" HorizontalAlignment="Left" Height="821" VerticalAlignment="Top" Width="422" Source="C:\Users\ASUS\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\手机照片.PNG" Margin="148,-34,0,0"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="34" Margin="220,673,0,0" TextWrapping="Wrap" Text="请点击左边按钮开始录音" VerticalAlignment="Top" Width="245" FontSize="20" BorderBrush="White" />
+
+        <Image x:Name="image1_head" HorizontalAlignment="Left" Height="50" Margin="479,151,0,0" VerticalAlignment="Top" Width="50" Source="C:\Users\ASUS\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\GOGO聊天界面图片.jpg"/>
+        <Image x:Name="image1_bubble" HorizontalAlignment="Left" Height="50" Margin="243,151,0,0" VerticalAlignment="Top" Width="229" Source="C:\Users\ASUS\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\聊天气泡_右 (2).jpg"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="34" Margin="249,160,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="203" FontSize="19" BorderBrush="White"/>
+
+        <Image x:Name="image2_head" HorizontalAlignment="Left" Height="50" Margin="192,239,0,0" VerticalAlignment="Top" Width="50" Source="C:\Users\ASUS\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\机器人头像.jpg"/>
+        <Image x:Name="image2_bubble" HorizontalAlignment="Left" Height="75" Margin="255,239,0,0" VerticalAlignment="Top" Width="274" Source="C:\Users\ASUS\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\拉长_左.PNG"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="72" Margin="264,242,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="251" FontSize="19" BorderBrush="White"/>
+
+        <Image x:Name="image3_head" HorizontalAlignment="Left" Height="50" Margin="479,325,0,0" VerticalAlignment="Top" Width="50" Source="GOGO聊天界面图片.jpg"/>
+        <Image x:Name="image3_bubble" HorizontalAlignment="Left" Height="50" Margin="237,325,0,0" VerticalAlignment="Top" Width="249" Source="聊天气泡_右 (2).jpg"/>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="34" Margin="243,334,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="209" FontSize="19" BorderBrush="White"/>
+
+        <Image x:Name="image4_head" HorizontalAlignment="Left" Height="50" Margin="192,412,0,0" VerticalAlignment="Top" Width="50" Source="机器人头像.jpg"/>
+        <Image x:Name="image4_bubble" HorizontalAlignment="Left" Height="72" Margin="255,412,0,0" VerticalAlignment="Top" Width="260" Source="C:\Users\ASUS\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\拉长_左.PNG"/>
+        <TextBox x:Name="textBox4" HorizontalAlignment="Left" Height="67" Margin="264,417,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241" FontSize="19" BorderBrush="White"/>
+
+        <Image x:Name="image5_head" HorizontalAlignment="Left" Height="50" Margin="479,495,0,0" VerticalAlignment="Top" Width="50" Source="GOGO聊天界面图片.jpg"/>
+        <Image x:Name="image5_bubble" HorizontalAlignment="Left" Height="50" Margin="237,495,0,0" VerticalAlignment="Top" Width="249" Source="聊天气泡_右 (2).jpg"/>
+        <TextBox x:Name="textBox5" HorizontalAlignment="Left" Height="34" Margin="243,504,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="209" FontSize="19" BorderBrush="White"/>
+
+        <Image x:Name="image6_head" HorizontalAlignment="Left" Height="50" Margin="192,579,0,0" VerticalAlignment="Top" Width="50" Source="机器人头像.jpg"/>
+        <Image x:Name="image6_bubble" HorizontalAlignment="Left" Height="83" Margin="255,579,0,0" VerticalAlignment="Top" Width="260" Source="C:\Users\ASUS\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\拉长_左.PNG"/>
+        <TextBox x:Name="textBox6" HorizontalAlignment="Left" Height="66" Margin="264,585,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241" FontSize="19" BorderBrush="White"/>
+        <Button x:Name="button" HorizontalAlignment="Left" Height="34" Margin="169,673,0,0" VerticalAlignment="Top" Width="37" BorderBrush="White" Click="button_Click">
+            <Image x:Name="image_button" Height="34" Width="37" Source="C:\Users\ASUS\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\button.PNG" RenderTransformOrigin="0.802,0.582" />
+        </Button>
+
+        <Image x:Name="image1" HorizontalAlignment="Left" Height="623" Margin="608,84,0,0" VerticalAlignment="Top" Width="895" Source="C:\Users\ASUS\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\超市平面图.jpg"/>
+        <!--<Button x:Name="button2"  HorizontalAlignment="Left" Margin="474,668,0,0" VerticalAlignment="Top" Width="35" Height="39" Click="button1_Click_1">
+            <Image x:Name="image_button2" Height="34" Width="37" Source="C:\Users\ASUS\documents\visual studio 2015\Projects\SaladCo_WPF\SaladCo_WPF\键盘图标.png" />
+        </Button>-->
+
+
+
+
+
+    </Grid>
+
+
+
+
+
+
+</Window>
